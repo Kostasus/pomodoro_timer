@@ -1,4 +1,4 @@
-from tkinter import Entry, Frame, Tk, Label, Entry, Button
+from tkinter import Entry, Frame, Tk, Label, Button
 from tkinter.constants import LEFT
 from win10toast import ToastNotifier #Module for calling Windows notifications
 from pathlib import Path #Module for working with paths
