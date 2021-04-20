@@ -1,4 +1,4 @@
-from tkinter import Entry, Frame, Tk, Label, Entry, Button
+from tkinter import Entry, Frame, Tk, Label, Button
 from tkinter.constants import LEFT
 from win10toast import ToastNotifier #Модуль для вызова уведомлений Windows
 from pathlib import Path #Модуль для работы с путями
